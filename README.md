@@ -1,5 +1,3 @@
-# README.md
-
 # Ultrasonic Sensor + Water Pump IoT with Blynk (ESP8266)
 
 ![IoT](https://img.shields.io/badge/IoT-ESP8266-blue)
